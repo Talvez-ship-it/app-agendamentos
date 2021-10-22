@@ -31,7 +31,5 @@
       "android"
     ]
   },
-  "dependencies": {
-    "firebase": "^9.1.2"
-  }
+  "dependencies": {}
 }
